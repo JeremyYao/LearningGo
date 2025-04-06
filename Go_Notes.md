@@ -2,8 +2,6 @@
 
 ## Closures
 
-The fuck is this?
-
 ``` Go
 func concatter() func(string) string {
  doc := ""
